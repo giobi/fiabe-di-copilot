@@ -65,7 +65,16 @@
 - **Temi**: Artigianato magico, protezione dimensionale, eredità familiare, guardianato
 - **Connessioni**: Famiglia Stellari (ramo collaterale), Cristallo di Vremya, preparazione alla convergenza
 
-### 8. [Totò e l'apocalisse nucleare](stories/cross-genre/toto-e-lapocalisse-nucleare.md)
+### 8. [Il Viaggio dei Cinque Guardiani](stories/fantasy/il-viaggio-dei-cinque-guardiani.md)
+- **File**: [stories/fantasy/il-viaggio-dei-cinque-guardiani.md](stories/fantasy/il-viaggio-dei-cinque-guardiani.md)
+- **Genere**: Fantasy/Avventura
+- **Protagonisti**: Zara Stellari, Ombraluna, Radice Antica, Cuore di Diamante, Soffio di Vento, La Sentinella
+- **Epoca**: 2071
+- **Ambientazione**: Monte Stellaris, tra le dimensioni
+- **Temi**: Quest epico, cooperazione multispecie, Grande Convergenza, equilibrio dimensionale
+- **Connessioni**: Famiglia Stellari, Cristallo di Vremya, Lyralei, completamento della Grande Convergenza
+
+### 9. [Totò e l'apocalisse nucleare](stories/cross-genre/toto-e-lapocalisse-nucleare.md)
 - **File**: [stories/cross-genre/toto-e-lapocalisse-nucleare.md](stories/cross-genre/toto-e-lapocalisse-nucleare.md)
 - **Genere**: Post-apocalittico/Commedia/Satirico
 - **Protagonisti**: Totò, Massimo Troisi, Diego Armando Maradona, Pulcinella
@@ -74,7 +83,7 @@
 - **Temi**: Resilienza attraverso l'umorismo, trasformazione dell'apocalisse in arte, ponti interdimensionali
 - **Connessioni**: Collegata a L'Ultima Libreria, utilizza frammenti del Cristallo di Vremya, espande l'universo post-Guerre della Memoria
 
-### 9. [I funghetti magici del mondo di Jennifer](stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md)
+### 10. [I funghetti magici del mondo di Jennifer](stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md)
 - **File**: [stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md](stories/cross-genre/i-funghetti-magici-del-mondo-di-jennifer.md)
 - **Genere**: Sci-Fi/Fantasy/Satirico/Distopico
 - **Protagonisti**: Jennifer McAllister, Mefistofele (gatto gigante), Spore (fungo senziente)
@@ -83,7 +92,7 @@
 - **Temi**: Sopravvivenza post-apocalittica, ironia sul perfezionismo, accettazione del caos, imprenditoria interdimensionale
 - **Connessioni**: Ambientato dopo "Totò e l'apocalisse nucleare", energia di Terra Mystica contamina zone radioattive, frammento del Cristallo di Vremya
 
-### 10. [Il Copywriter Annoiato e la Tangente Infinita](stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md)
+### 11. [Il Copywriter Annoiato e la Tangente Infinita](stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md)
 - **File**: [stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md](stories/cross-genre/il-copywriter-annoiato-e-la-tangente-infinita.md)
 - **Genere**: Commedia/Fantasy
 - **Protagonisti**: Gabriele Rossi, Giobi Martinelli
@@ -92,7 +101,7 @@
 - **Temi**: Creatività sotto pressione, scoperta del fantastico nel quotidiano, interferenze dimensionali nella vita normale
 - **Connessioni**: Contemporaneo alle ricerche di Marco Stellari, effetti collaterali delle scoperte dimensionali sulla vita quotidiana
 
-### 11. [Il Peso dell'Orgoglio](stories/cross-genre/il-peso-dellorgoglio.md)
+### 12. [Il Peso dell'Orgoglio](stories/cross-genre/il-peso-dellorgoglio.md)
 - **File**: [stories/cross-genre/il-peso-dellorgoglio.md](stories/cross-genre/il-peso-dellorgoglio.md)
 - **Genere**: Cross-genre/Dramma contemporaneo
 - **Protagonisti**: Alessandro Benedetti, Matteo Benedetti
@@ -101,7 +110,7 @@
 - **Temi**: Crescita personale, orgoglio, emancipazione familiare, rifiuto dell'amore condizionato
 - **Connessioni**: I sistemi tecnologici sviluppati sfruttano le interferenze causate dagli esperimenti di Marco Stellari
 
-### 12. [Il Mollusco Filosofo di Proxima Vulpecula](stories/sci-fi/il-mollusco-filosofo-di-proxima-vulpecula.md)
+### 13. [Il Mollusco Filosofo di Proxima Vulpecula](stories/sci-fi/il-mollusco-filosofo-di-proxima-vulpecula.md)
 - **File**: [stories/sci-fi/il-mollusco-filosofo-di-proxima-vulpecula.md](stories/sci-fi/il-mollusco-filosofo-di-proxima-vulpecula.md)
 - **Genere**: Sci-Fi/Filosofico
 - **Protagonista**: Conchiglia-che-Riflette (mollusco bivalve filosofo)
@@ -110,7 +119,7 @@
 - **Temi**: Meta-teatro brechtiano, filosofia dell'esistenza, immobilità contemplativa, rottura della quarta parete
 - **Connessioni**: Echi quantici delle vicende Stellari, era post-convergenza dimensionale, riflessioni cosmiche
 
-### 13. [Ragazzo bottone](stories/cross-genre/ragazzo-bottone.md)
+### 14. [Ragazzo bottone](stories/cross-genre/ragazzo-bottone.md)
 - **File**: [stories/cross-genre/ragazzo-bottone.md](stories/cross-genre/ragazzo-bottone.md)
 - **Genere**: Cross-genre/Surreal
 - **Protagonisti**: Ragazzo bottone, Ragazzo fucile, Ragazzo cappello, Ragazzo scarpa, Il Minotauro
@@ -128,6 +137,9 @@
 
 ### 2070
 - **[Il Cappello Magico](stories/fantasy/il-cappello-magico.md)**: Elisabetta Stellari diventa Guardiana dei Passaggi di Milano
+
+### 2071
+- **[Il Viaggio dei Cinque Guardiani](stories/fantasy/il-viaggio-dei-cinque-guardiani.md)**: I cinque guardiani completano la Grande Convergenza sul Monte Stellaris
 
 ### 2085
 - **[La Tessitrice di Stelle](stories/cross-genre/la-tessitrice-di-stelle.md)**: Stella Stellari crea le mappe stellari per la Grande Convergenza
@@ -158,6 +170,7 @@
 - **Marco Stellari**: Esploratore dimensionale (XXI secolo)
 - **Stella Stellari**: Astronoma-artista e tessitrice di mappe stellari (2085)
 - **Elisabetta Stellari**: Cappellaia e Guardiana dei Passaggi di Milano (2070)
+- **Zara Stellari**: Guardiana della Grande Convergenza, pronipote di Marco (2071)
 - **Giacomo Stellari**: Bioingegnere marino (2134)
 - **Luna Stellari**: Detective spaziale (2157)
 
@@ -230,6 +243,12 @@
 - Primo centro commerciale interdimensionale post-apocalittico
 - Ecosistema impossibile con funghi magici e creature mutanti
 
+### Monte Stellaris 2071
+- Montagna sacra che si estende tra le dimensioni
+- Sede della Sentinella, guardiano della Grande Convergenza
+- Piattaforma cristallina sulla vetta per il risveglio dimensionale
+- Centro di coordinamento per l'apertura armoniosa dei portali interdimensionali
+
 ## Elementi Ricorrenti | Recurring Elements
 
 ### Il Cristallo di Vremya
@@ -277,10 +296,10 @@
 
 ## Statistiche Attuali | Current Statistics
 
-- **Storie Totali**: 13
-- **Generi**: Fantasy, Sci-Fi, Mystery, Cross-Genre, Post-apocalittico, Commedia, Satirico, Distopico, Dramma contemporaneo, Surreal
-- **Ambientazioni**: 12 mondi/epoche diverse (incluso Regno dei Sogni Onirici)
-- **Personaggi Principali**: 30+
+- **Storie Totali**: 14
+- **Generi**: Fantasy, Sci-Fi, Mystery, Cross-Genre, Post-apocalittico, Commedia, Satirico, Distopico, Dramma contemporaneo, Surreal, Avventura
+- **Ambientazioni**: 13 mondi/epoche diverse (incluso Regno dei Sogni Onirici e Monte Stellaris)
+- **Personaggi Principali**: 35+
 - **Linea Temporale**: Dal primo XXI secolo al 2189
 
 ## Prossimi Sviluppi Suggeriti | Suggested Next Developments
