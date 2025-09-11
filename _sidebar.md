@@ -11,6 +11,8 @@
   
   * **Fantasy**
     * [Il Ragazzo e la Volpe Meccanica](stories/fantasy/il-ragazzo-e-la-volpe-meccanica.md)
+    * [Il Cappello Magico](stories/fantasy/il-cappello-magico.md)
+    * [Il Viaggio dei Cinque Guardiani](stories/fantasy/il-viaggio-dei-cinque-guardiani.md)
   
   * **Mystery**
     * [Detective Luna](stories/mystery/detective-luna.md)
